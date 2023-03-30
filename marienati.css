@@ -1,0 +1,33 @@
+. cabecalho
+{
+    cor de fundo : amêndoa escaldada;
+}
+ h1 {
+    alinhamento de texto : centro;
+    cor de fundo : aqua;
+}
+ h2 {
+    cor de fundo : marrom;
+}
+. imagem {
+    largura :  20 px ;
+    imagem de fundo :  gradiente linear ();
+}
+
+ P {
+    tamanho da fonte :  18 px ;
+}
+. parágrafo1 {
+    tamanho da fonte :  22 px ;
+}
+. parágrafos {
+    tamanho da fonte :  18 px ;
+}
+. { _
+    exibição : bloco em linha;
+    margem :  16 px ;
+}
+ rodapé {
+
+
+}
