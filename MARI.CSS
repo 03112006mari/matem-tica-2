@@ -1,0 +1,33 @@
+.cabecalho
+{
+    background-color: amêndoa escaldada;
+}
+ h1 {
+    text-align : center;
+    background-color : aqua;
+}
+ h2 {
+    background-color: marrom;
+}
+.imagem {
+    list-style:  20 px ;
+    imagem de fundo :  gradiente linear ();
+}
+
+ P {
+    font-size:  18 px ;
+}
+.parágrafo1 {
+    tamanho da fonte :  22 px ;
+}
+.parágrafos {
+    font-size :  18 px ;
+}
+footer{ _
+    exibição : bloco em linha;
+    margin :  16 px ;
+}
+ rodapé {
+
+
+}
