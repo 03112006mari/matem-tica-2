@@ -1,14 +1,18 @@
 .cabecalho
 {
-    background-color: rgba(161, 135, 61, 0.637);
+    background-color: rgba(106, 14, 228, 0.842);
     font-size: 1080;
 }
  h1 {
     text-align : center;
-    background-color : rgb(255, 115, 0);
+    background-color : rgba(0, 255, 0, 0.445);
 }
  h2 {
-    background-color: rgb(255, 115, 0);
+    background-color: rgba(0, 255, 0, 0.445);
+}
+.IMAGEM1{
+    width: 850px;
+    background-image:linear-gradient();
 }
 .imagem {
     width: 850px;
@@ -25,12 +29,11 @@
     font-size :  18 px ;
 }
 footer{ 
-    background-color: aquamarine;
+    background-color: rgb(8, 158, 108);
     padding: 15px 0 ;
     display:gride
 }
 rodapé{
 
 }
-
 
